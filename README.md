@@ -74,3 +74,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=SurajYadav22" alt=""/> </p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajYadav22&theme=vue" alt="summarycard"/> </p>
 <hr />
+<h3 align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/SurajYadav22/count.svg" />
+</h3>
+<hr />
