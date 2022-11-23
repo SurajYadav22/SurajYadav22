@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes..
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajYadav22&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/SurajYadav22?tab=followers"><img src="https://img.shields.io/github/followers/SurajYadav22?label=Followers&style=social" alt="GitHub Badge"></a>
+
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1vqdHZ96g2kFve0FVawr9AyQNwmIaHxqm/view)<br>
   
 </p>
 
