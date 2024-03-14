@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes..
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SurajYadav22&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 <a href="https://github.com/SurajYadav22?tab=followers"><img src="https://img.shields.io/github/followers/SurajYadav22?label=Followers&style=social" alt="GitHub Badge"></a>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1vqdHZ96g2kFve0FVawr9AyQNwmIaHxqm/view)<br>
+
   
 </p>
 
@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes..
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/dev-suraj/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="surajyadavji6214@gmail.com" href="mailto:surajybtg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+
+  <a title="surajybtg@gmail.com" href="mailto:surajybtg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
  
   <a href="https://surajyadav-dev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
