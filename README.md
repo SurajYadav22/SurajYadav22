@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=220&section=header&text=Suraj%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend-Heavy%20Engineer&descFontSize=18&descColor=99f6e4&fontAlignX=50&fontAlignY=42" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=220&section=header&text=Suraj%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend-Hea[...]" width="100%" alt="Header banner" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Designing+systems+that+scale+quietly;Building+secure,+resilient+backends;Shipping+high-impact+platforms;Solving+real+world+engineering+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Designing+systems+that+scale+quietl[...]" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/dev-suraj"><img src="https://img.shields.io/badge/LinkedIn-dev--suraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -138,7 +138,7 @@ const suraj = {
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SurajYadav22&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" height="170" alt="GitHub streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajYadav22&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=2dd4bf&line=2dd4bf&point=ffffff&area=true&area_color=5eead4" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajYadav22&theme=tokyo-night&hide_border=true&area=true&color=2dd4bf&line=2dd4bf&point=ffffff" width="100%" alt="Contribution graph" />
 </div>
 
 ---
