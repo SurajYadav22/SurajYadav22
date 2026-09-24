@@ -1,147 +1,157 @@
-<!--
-SurajYadav22/SurajYadav22 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=220&section=header&text=Suraj%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend-Heavy%20Full%20Stack%20Engineer%20%E2%80%A2%204%2B%20Years&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Suraj Yadav" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Suraj+Yadav+%F0%9F%91%8B;Full+Stack+Engineer+%E2%80%94+Backend+Heavy;Node.js+%C2%B7+NestJS+%C2%B7+Azure+%C2%B7+MongoDB;3%2B+years+shipping+production+systems." alt="Typing SVG" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Designing+systems+that+scale+quietly.;Multi-tenant+SaaS+%C2%B7+Microservices+%C2%B7+Event-driven+architecture;Node.js+%C2%B7+NestJS+%C2%B7+Azure+%C2%B7+MongoDB+%C2%B7+Redis;4%2B+years+shipping+production+systems+for+millions+of+users." alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SurajYadav22&label=Profile+Views&color=2dd4bf&style=flat-square" alt="profile views" />
-  &nbsp;
-  <a href="https://github.com/SurajYadav22?tab=followers">
-    <img src="https://img.shields.io/github/followers/SurajYadav22?label=Followers&style=social" alt="followers" />
-  </a>
+  <a href="https://linkedin.com/in/dev-suraj"><img src="https://img.shields.io/badge/LinkedIn-dev--suraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://surajcodes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-surajcodes.vercel.app-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:surajybtg@gmail.com"><img src="https://img.shields.io/badge/Email-surajybtg%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SurajYadav22&label=Profile%20Views&color=2dd4bf&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### `$ whoami`
 
-- 🏢 **Currently:** Full Stack Engineer @ [Delisys Technologies](https://delisystechnologies.com/) · Remote, United Kingdom
-- 🔧 **Expertise:** Backend-heavy full stack — microservices, REST APIs, event-driven systems, cloud infrastructure
-- 🌍 **Location:** Noida, Uttar Pradesh, India
-- 🚀 **Track record:** Enterprise SaaS, fintech platforms, and government portals serving millions of users
-- 💬 **Ask me about:** Node.js, NestJS, Azure, MongoDB, microservices architecture, system design
-- 🤝 **Open to:** Backend-heavy roles, remote & hybrid opportunities
-- 📄 **Portfolio:** [surajcodes.vercel.app](https://surajcodes.vercel.app)
-- 📬 **Email:** [surajybtg@gmail.com](mailto:surajybtg@gmail.com)
+```ts
+const suraj = {
+  role:        "Full Stack Engineer — Backend Heavy",
+  experience:  "4+ years in production",
+  currently:   "Delisys Technologies · Remote (United Kingdom)",
+  basedIn:     "Noida, India",
+  specialties: ["Multi-tenant SaaS", "Microservices", "Event-driven systems", "Cloud infrastructure"],
+  domains:     ["Enterprise SaaS", "Fintech", "GovTech", "Healthcare", "EdTech"],
+  askMeAbout:  ["Node.js", "NestJS", "Azure", "MongoDB", "System design"],
+  openTo:      ["Backend-heavy roles", "Remote", "Hybrid"],
+};
+```
 
-<br/>
+---
 
-<table align="center">
+### ⚡ Impact at a Glance
+
+<div align="center">
+
+| **4+** | **10K+** | **5M+** | **99.99%** | **15m → 2m** |
+|:---:|:---:|:---:|:---:|:---:|
+| Years building<br/>production systems | Enterprise users on<br/>IAM & SaaS | Records on gov<br/>& edu portals | Uptime targets on<br/>critical workloads | Report pipeline<br/>time reduction |
+
+</div>
+
+---
+
+### 🧭 How I Engineer
+
+> **Design for failure.** Every service assumes its dependencies will go down — retries, idempotency and graceful degradation are defaults, not afterthoughts.
+>
+> **Observe everything.** If it isn't logged, traced and alerted on, it isn't production-ready.
+>
+> **Secure by default.** Tenant isolation, RBAC and OAuth 2.0 are designed in from day one.
+>
+> **Measure, then optimize.** Latency budgets and load tests over guesswork.
+
+---
+
+### 🏗️ Featured Work
+
+<table>
   <tr>
-    <td align="center" width="140"><b>3+</b><br/><sub>Years shipping<br/>production systems</sub></td>
-    <td align="center" width="140"><b>10k+</b><br/><sub>Enterprise users on<br/>IAM & SaaS</sub></td>
-    <td align="center" width="140"><b>5M+</b><br/><sub>Records on gov<br/>& edu portals</sub></td>
-    <td align="center" width="140"><b>99.99%</b><br/><sub>Uptime targets on<br/>critical workloads</sub></td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://ops360.net">OPS360</a></h4>
+      <sub><b>Enterprise Multi-tenant SaaS</b></sub>
+      <p>IAM microservices across a multi-region Azure deployment (UK + India). Integrated Stripe & Razorpay billing; sustained sub-100ms responses under load.</p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏅 <a href="https://www.biharsportsmashaal.in/home">Bihar Sports Mashaal</a></h4>
+      <sub><b>Government Sports Portal</b></sub>
+      <p>Manages 5M+ student records for Bihar school games. 50K+ monthly active users at 99.99% uptime; report generation cut from 15 minutes to 2.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://aiimspatna.edu.in">AIIMS Patna Portal</a></h4>
+      <sub><b>Hospital Management Platform</b></sub>
+      <p>Clinical workflows with HIPAA-aligned data handling and multi-role RBAC for clinical and administrative staff.</p>
+      <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/RBAC-0f172a?style=flat-square&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://www.upums.ac.in">UPUMS University Portal</a></h4>
+      <sub><b>University Management System</b></sub>
+      <p>Academic workflows for UP University of Medical Sciences on the MERN stack, serving 500+ staff and 10K+ students with multi-role access.</p>
+      <img src="https://img.shields.io/badge/MERN-2DD4BF?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Toolbox
 
-**Backend**
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,java&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,aws,docker,nginx,githubactions&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />&nbsp; <sub>+ Cosmos DB</sub></td>
+  </tr>
+  <tr>
+    <td><b>Observability & QA</b></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana,jest,postman&theme=dark" />&nbsp; <sub>+ Azure Monitor · Winston · Mocha</sub></td>
+  </tr>
+  <tr>
+    <td><b>Workflow</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,notion&theme=dark" /></td>
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Cloud & DevOps**
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Observability & Monitoring**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Winston](https://img.shields.io/badge/Winston-231F20?style=for-the-badge&logo=winston&logoColor=white)
-
-**Testing & QA**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<sub>Also fluent in: REST API design · OAuth 2.0 / JWT · Microservices · Event-driven architecture · DigitalOcean</sub>
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Live |
-|---|---|---|
-| **OPS360** | Enterprise multi-tenant SaaS — IAM microservices, multi-region Azure (UK + India), Stripe & Razorpay payments, sub-100ms under load | [ops360.net](https://ops360.net) |
-| **Bihar Sports Mashaal** | Govt. portal managing 5M+ student records for Bihar school games. 50K+ MAU, 99.99% uptime, report pipeline 15min → 2min | [biharsportsmashaal.in](https://www.biharsportsmashaal.in/home) |
-| **AIIMS Patna Portal** | Hospital management portal — clinical workflows, HIPAA-aligned data handling, multi-role RBAC for clinical & admin staff | [aiimspatna.edu.in](https://aiimspatna.edu.in) |
-| **UPUMS University Portal** | University portal for UP Medical Sciences — academic workflows, MERN stack, multi-role access, 500+ staff, 10K+ students | [upums.ac.in](https://www.upums.ac.in) |
-
----
-
-### 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-suraj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://surajcodes.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajybtg@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/surajydev)
-
----
-
-### 📊 GitHub Stats
-
+### 📈 GitHub Activity
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajYadav22&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajYadav22&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SurajYadav22&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=SurajYadav22&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" height="170" alt="GitHub streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SurajYadav22&theme=tokyo-night&hide_border=true&area=true&color=2dd4bf&line=2dd4bf&point=ffffff" width="100%" alt="Contribution graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>📍 Noida, Uttar Pradesh, India &nbsp;|&nbsp; Open to remote & hybrid backend-heavy roles</sub>
+
+**Open to backend-heavy engineering roles — remote & hybrid.**<br/>
+<sub>Let's build something that scales. &nbsp;→&nbsp; <a href="mailto:surajybtg@gmail.com">surajybtg@gmail.com</a></sub>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/surajydev"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:134e4a,100:0f172a&height=110&section=footer" width="100%" />
