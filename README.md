@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=220&section=header&text=Suraj%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend-Hea[...]" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=220&section=header&text=Suraj%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Backend-Heavy%20Full%20Stack%20Engineer%20%E2%80%A2%204%2B%20Years&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Suraj Yadav" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Designing+systems+that+scale+quietl[...]" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Designing+systems+that+scale+quietly.;Multi-tenant+SaaS+%C2%B7+Microservices+%C2%B7+Event-driven+architecture;Node.js+%C2%B7+NestJS+%C2%B7+Azure+%C2%B7+MongoDB+%C2%B7+Redis;4%2B+years+shipping+production+systems+for+millions+of+users." alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/dev-suraj"><img src="https://img.shields.io/badge/LinkedIn-dev--suraj-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
